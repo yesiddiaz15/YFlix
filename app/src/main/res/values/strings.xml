@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YFlix</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento blanco</string>
+    <string name="movies">Peliculas</string>
+    <string name="series">Series</string>
+</resources>
